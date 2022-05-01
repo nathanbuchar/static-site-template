@@ -1,0 +1,27 @@
+// @import "reset";
+@import "fonts";
+
+* {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  max-width: 640px;
+  padding: 128px 16px;
+  margin: 0 auto;
+}
+
+main {
+  padding: 0 16px 16px;
+}
+
+nav {
+  padding: 0 16px 16px;
+  display: flex;
+  align-items: center;
+}
+
+footer {
+  padding: 32px 16px 0;
+}

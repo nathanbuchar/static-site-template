@@ -1,0 +1,5 @@
+# Generated via https://securitytxt.org/
+
+Contact: mailto:hello@nathanbuchar.com
+Expires: 2032-04-30T07:00:00.000Z
+Encryption: https://nathanbuchar.com/pgp-key.txt

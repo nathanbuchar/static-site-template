@@ -1,0 +1,13 @@
+extends /common/pug/layout
+
+block append variables
+  - var title = 'Test'
+
+block append scripts
+  +script('./test.js')
+
+block append stylesheets
+  +stylesheet('./test.scss')
+
+block content
+  include:markdown test.md
